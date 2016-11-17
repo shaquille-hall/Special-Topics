@@ -1,0 +1,45 @@
+3	is a valid numeric literal
+1	is a valid numeric literal
+2.	is a valid numeric literal
++2.	is a valid numeric literal
++0	is a valid numeric literal
+-01	is a valid numeric literal
+13.	is a valid numeric literal
+.328	is a valid numeric literal
+463.86	is a valid numeric literal
++55.80	is a valid numeric literal
+-24.65	is a valid numeric literal
++15.4e6	is a valid numeric literal
+01E-06	is a valid numeric literal
+01E+06	is a valid numeric literal
+-.4E-7	is a valid numeric literal
+00e0	is a valid numeric literal
++0e1	is a valid numeric literal
+.2E-03	is a valid numeric literal
+-1.56729E8126	is a valid numeric literal
+	is NOT a valid numeric Literal
+.	is NOT a valid numeric Literal
++	is NOT a valid numeric Literal
+-	is NOT a valid numeric Literal
+e	is NOT a valid numeric Literal
+E	is NOT a valid numeric Literal
+..	is NOT a valid numeric Literal
+++	is NOT a valid numeric Literal
+—	is NOT a valid numeric Literal
+ee	is NOT a valid numeric Literal
+EE	is NOT a valid numeric Literal
+2+.0	is a valid numeric literal
+-2.e+7	is NOT a valid numeric Literal
+#	is NOT a valid numeric Literal
+5E1.2	is NOT a valid numeric Literal
+E12	is NOT a valid numeric Literal
+-.E7	is NOT a valid numeric Literal
+a	is NOT a valid numeric Literal
+2E1-7	is NOT a valid numeric Literal
+2E3.	is NOT a valid numeric Literal
+1.0+	is NOT a valid numeric Literal
+1-	is NOT a valid numeric Literal
+234567890123456789012345678901234567890123456789012345678901234567891234567890	is NOT a valid numeric Literal
++E12	is NOT a valid numeric Literal
+E	is NOT a valid numeric Literal
+453 334534	is NOT a valid numeric Literal
